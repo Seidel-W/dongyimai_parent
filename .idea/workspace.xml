@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5329d86b-4203-49d6-bd68-2a9d7766293e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="G:\0907\repository" />
+        <option name="mavenHome" value="G:\0907\apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="G:\0907\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lUSLZazkfK7P5p4PKXMmznp9Bv" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\0907\dongyimai_parent\dongyimai_manager_web\src\main\webapp\js" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\0907\dongyimai_parent\dongyimai_manager_web\src\main\webapp\js\service" />
+      <recent name="G:\0907\dongyimai_parent\dongyimai_manager_web\src\main\webapp\js\controller" />
+      <recent name="G:\0907\dongyimai_parent\dongyimai_sellergoods_service\src\main\java\com\offcn\sellergoods\service\impl" />
+      <recent name="G:\0907\dongyimai_parent\dongyimai_sellergoods_interface\src\main\java\com\offcn\sellergoods\service" />
+      <recent name="G:\0907\dongyimai_parent\dongyimai_manager_web\src\main\java\com\offcn\sellergoods\controller" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Maven.manager_web">
+    <configuration name="manager_web" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/dongyimai_manager_web" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="sellergoods_service" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/dongyimai_sellergoods_service" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Maven.manager_web" />
+      <item itemvalue="Maven.sellergoods_service" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5329d86b-4203-49d6-bd68-2a9d7766293e" name="Default Changelist" comment="" />
+      <created>1607650123342</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607650123342</updated>
+      <workItem from="1607650124681" duration="8705000" />
+      <workItem from="1619345785511" duration="9588000" />
+      <workItem from="1619397527818" duration="433000" />
+      <workItem from="1619398221445" duration="561000" />
+      <workItem from="1619398814058" duration="26750000" />
+      <workItem from="1619484166508" duration="22924000" />
+      <workItem from="1619525847290" duration="7370000" />
+      <workItem from="1619570505499" duration="22230000" />
+      <workItem from="1619656971213" duration="2214000" />
+      <workItem from="1619709317359" duration="4089000" />
+      <workItem from="1620384506666" duration="120000" />
+      <workItem from="1621578137042" duration="2335000" />
+      <workItem from="1621598378172" duration="3185000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="326" y="0" key="#Project_Structure" timestamp="1619608728611">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="326" y="0" key="#Project_Structure/0.0.1366.768@0.0.1366.768" timestamp="1619608728611" />
+    <state x="441" y="72" width="925" height="691" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1619352347128">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="441" y="72" width="925" height="691" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1619352347128" />
+    <state x="488" y="89" key="#com.intellij.ide.util.MemberChooser" timestamp="1619608683336">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="488" y="89" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1619608683336" />
+    <state x="463" y="138" key="FileChooserDialogImpl" timestamp="1619680598533">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="138" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1619680598533" />
+    <state width="1323" height="151" key="GridCell.Tab.0.bottom" timestamp="1619713424053">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="151" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1619713424053" />
+    <state width="1323" height="151" key="GridCell.Tab.0.center" timestamp="1619713424053">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="151" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1619713424053" />
+    <state width="1323" height="151" key="GridCell.Tab.0.left" timestamp="1619713424053">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="151" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1619713424053" />
+    <state width="1323" height="151" key="GridCell.Tab.0.right" timestamp="1619713424053">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="151" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1619713424053" />
+    <state width="1323" height="151" key="GridCell.Tab.1.bottom" timestamp="1619713424054">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="151" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1619713424054" />
+    <state width="1323" height="151" key="GridCell.Tab.1.center" timestamp="1619713424054">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="151" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1619713424054" />
+    <state width="1323" height="151" key="GridCell.Tab.1.left" timestamp="1619713424054">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="151" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1619713424054" />
+    <state width="1323" height="151" key="GridCell.Tab.1.right" timestamp="1619713424054">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="151" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1619713424054" />
+    <state x="184" y="28" key="SettingsEditor" timestamp="1619680602232">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="184" y="28" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1619680602232" />
+    <state x="113" y="40" key="new project wizard" timestamp="1619680715041">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="113" y="40" key="new project wizard/0.0.1366.768@0.0.1366.768" timestamp="1619680715041" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1619608745340">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1619608745340" />
+  </component>
+</project>
